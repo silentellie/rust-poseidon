@@ -8,56 +8,57 @@
 
 # FEATURES
 
-Visual Options
+ Visual Options
 
-Box ESP
+ Box ESP
 
-Health Bars
+ Health Bars
 
-Name ESP
+ Name ESP
 
-Held Item ESP
+ Held Item ESP
 
-Hotbar Revealed
+ Hotbar Revealed
 
-No Animations
+ No Animations
 
-Player Distance
+ Player Distance
 
-Player Chams
+ Player Chams
 
-Radar
+ Radar
 
-Animal ESP
+ Animal ESP
 
-Trap ESP
+ Trap ESP
 
-Stash ESP
+ Stash ESP
 
-Storage ESP
+ Storage ESP
 
-Vehicle ESP
+ Vehicle ESP
 
-Raid ESP
+ Raid ESP
 
-Render Sleepers
+ Render Sleepers
 
-Render Knocked
+ Render Knocked
 
-Movement Selection
+ Movement Selection
 
-No Collision
+ No Collision
 
-Movement All Direction
+ Movement All Direction
 
-Shoot In Any State
+ Shoot In Any State
 
-Low Gravity
+ Low Gravity
 
-Walk On Water
+ Walk On Water
 
-Fake Lag
-Auto Walk To Player
+ Fake Lag
+ 
+ Auto Walk To Player
 
 ![image](https://github.com/silentellie/rust-poseidon/assets/92022770/7dc643d0-3915-4107-8f87-93100fd7719a)
 
