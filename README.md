@@ -1,6 +1,6 @@
 # RUST X POSEIDON
  
- 🔥 NEW FREE HACK FOR RUST 🔥
+ # 🔥 NEW FREE HACK FOR RUST 🔥
 
 # HOW TO INSTALL
 
