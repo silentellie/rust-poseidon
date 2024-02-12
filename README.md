@@ -8,7 +8,7 @@
 
 # FEATURES
 
--- Visual Options
+Visual Options
 
 Box ESP
 
