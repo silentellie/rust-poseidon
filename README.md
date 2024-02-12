@@ -9,29 +9,53 @@
 # FEATURES
 
 Visual Options
+
 Box ESP
+
 Health Bars
+
 Name ESP
+
 Held Item ESP
+
 Hotbar Revealed
+
 No Animations
+
 Player Distance
+
 Player Chams
+
 Radar
+
 Animal ESP
+
 Trap ESP
+
 Stash ESP
+
 Storage ESP
+
 Vehicle ESP
+
 Raid ESP
+
 Render Sleepers
+
 Render Knocked
+
 Movement Selection
+
 No Collision
+
 Movement All Direction
+
 Shoot In Any State
+
 Low Gravity
+
 Walk On Water
+
 Fake Lag
 Auto Walk To Player
 
